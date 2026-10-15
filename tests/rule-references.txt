@@ -3542,3 +3542,14 @@ https://redcanary.com/blog/gootloader/
 https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_22.12.2023.txt
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-20-wmievent-wmieventconsumer-activity-detected
 https://web.archive.org/web/20200219102749/https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
+https://unit42.paloaltonetworks.com/chromeloader-malware/
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5101
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-6416
+https://anydesk.com/en/changelog/windows
+https://twitter.com/cyb3rops/status/1096842275437625346
+https://community.f5.com/t5/technical-forum/icontrolrest-11-5-execute-bash-command/td-p/203029
+https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd
+https://en.wikipedia.org/wiki/IExpress
+https://strontic.github.io/xcyclopedia/library/mode.com-59D1ED51ACB8C3D50F1306FD75F20E99.html
+https://web.archive.org/web/20171113231705/https://www.optiv.com/blog/post-exploitation-using-netntlm-downgrade-attacks
+https://twitter.com/MsftSecIntel/status/1737895710169628824
