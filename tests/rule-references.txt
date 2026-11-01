@@ -3542,3 +3542,11 @@ https://redcanary.com/blog/gootloader/
 https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_22.12.2023.txt
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-20-wmievent-wmieventconsumer-activity-detected
 https://web.archive.org/web/20200219102749/https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf
+https://github.com/802-1x/Compliance/blob/2e53df8b6e89686a0b91116b3f42c8f717dca820/Ping%20Castle/Get-PingCastle-HTMLComplianceReport.ps1#L8
+https://megatools.megous.com/
+https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
+https://medium.com/@msuiche/the-nsa-compromised-swift-network-50ec3000b195
+http://www.hexacorn.com/blog/2013/01/19/beyond-good-ol-run-key-part-3/
+https://www.cisco.com/c/en/us/td/docs/ios/12_2sr/12_2sra/feature/guide/srmgtint.html#wp1127609
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-347a
+https://www.sentinelone.com/wp-content/uploads/pdf-gen/1630910064/20-common-tools-techniques-used-by-macos-threat-actors-malware.pdf
